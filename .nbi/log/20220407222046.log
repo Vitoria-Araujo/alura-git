@@ -1,0 +1,322 @@
+[2022-04-07 22:20:46.180]: entering -- org.netbeans.installer.Installer.main():61
+[2022-04-07 22:20:46.196]: initializing the installer engine
+[2022-04-07 22:20:46.196]:     entering -- org.netbeans.installer.Installer.<init>():96
+[2022-04-07 22:20:46.196]:     ... initializing ErrorHandler
+[2022-04-07 22:20:46.196]:     ... end of ErrorHandler initialization
+[2022-04-07 22:20:46.196]:     exiting -- org.netbeans.installer.Installer.<init>():96
+[2022-04-07 22:20:46.196]:     entering -- org.netbeans.installer.Installer.<init>():97
+[2022-04-07 22:20:46.196]:     dumping target system information
+[2022-04-07 22:20:46.196]:         system properties:
+[2022-04-07 22:20:46.196]:             awt.toolkit => sun.awt.windows.WToolkit
+[2022-04-07 22:20:46.196]:             file.encoding => Cp1252
+[2022-04-07 22:20:46.196]:             file.encoding.pkg => sun.io
+[2022-04-07 22:20:46.196]:             file.separator => \
+[2022-04-07 22:20:46.196]:             java.awt.graphicsenv => sun.awt.Win32GraphicsEnvironment
+[2022-04-07 22:20:46.196]:             java.awt.printerjob => sun.awt.windows.WPrinterJob
+[2022-04-07 22:20:46.196]:             java.class.path => C:\Users\Vitoria\AppData\Local\Temp\\NBI35369.tmp\bundle.jar
+[2022-04-07 22:20:46.196]:             java.class.version => 52.0
+[2022-04-07 22:20:46.196]:             java.endorsed.dirs => C:\Program Files\Java\jre1.8.0_311\lib\endorsed
+[2022-04-07 22:20:46.196]:             java.ext.dirs => C:\Program Files\Java\jre1.8.0_311\lib\ext;C:\Windows\Sun\Java\lib\ext
+[2022-04-07 22:20:46.196]:             java.home => C:\Program Files\Java\jre1.8.0_311
+[2022-04-07 22:20:46.196]:             java.io.tmpdir => C:\Users\Vitoria\AppData\Local\Temp\
+[2022-04-07 22:20:46.196]:             java.library.path => C:\Program Files\Java\jre1.8.0_311\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\;C:\Program Files (x86)\Toshiba\Bluetooth Toshiba Stack\sys\x64\;C:\Users\Vitoria\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Vitoria\AppData\Local\Programs\Python\Python310\;C:\Users\Vitoria\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2021.3.1\bin;.
+[2022-04-07 22:20:46.196]:             java.runtime.name => Java(TM) SE Runtime Environment
+[2022-04-07 22:20:46.196]:             java.runtime.version => 1.8.0_311-b11
+[2022-04-07 22:20:46.196]:             java.specification.name => Java Platform API Specification
+[2022-04-07 22:20:46.196]:             java.specification.vendor => Oracle Corporation
+[2022-04-07 22:20:46.196]:             java.specification.version => 1.8
+[2022-04-07 22:20:46.196]:             java.vendor => Oracle Corporation
+[2022-04-07 22:20:46.196]:             java.vendor.url => http://java.oracle.com/
+[2022-04-07 22:20:46.196]:             java.vendor.url.bug => http://bugreport.sun.com/bugreport/
+[2022-04-07 22:20:46.196]:             java.version => 1.8.0_311
+[2022-04-07 22:20:46.196]:             java.vm.info => mixed mode
+[2022-04-07 22:20:46.196]:             java.vm.name => Java HotSpot(TM) 64-Bit Server VM
+[2022-04-07 22:20:46.196]:             java.vm.specification.name => Java Virtual Machine Specification
+[2022-04-07 22:20:46.196]:             java.vm.specification.vendor => Oracle Corporation
+[2022-04-07 22:20:46.196]:             java.vm.specification.version => 1.8
+[2022-04-07 22:20:46.196]:             java.vm.vendor => Oracle Corporation
+[2022-04-07 22:20:46.196]:             java.vm.version => 25.311-b11
+[2022-04-07 22:20:46.196]:             line.separator => 
+[2022-04-07 22:20:46.196]:             netbeans.default_cachedir_root => C:\Users\Vitoria\AppData\Local\NetBeans\Cache
+[2022-04-07 22:20:46.196]:             netbeans.default_userdir_root => C:\Users\Vitoria\AppData\Roaming\NetBeans
+[2022-04-07 22:20:46.196]:             os.arch => amd64
+[2022-04-07 22:20:46.196]:             os.name => Windows 10
+[2022-04-07 22:20:46.196]:             os.version => 10.0
+[2022-04-07 22:20:46.196]:             path.separator => ;
+[2022-04-07 22:20:46.196]:             sun.arch.data.model => 64
+[2022-04-07 22:20:46.196]:             sun.boot.class.path => C:\Program Files\Java\jre1.8.0_311\lib\resources.jar;C:\Program Files\Java\jre1.8.0_311\lib\rt.jar;C:\Program Files\Java\jre1.8.0_311\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_311\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_311\lib\jce.jar;C:\Program Files\Java\jre1.8.0_311\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_311\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_311\classes
+[2022-04-07 22:20:46.196]:             sun.boot.library.path => C:\Program Files\Java\jre1.8.0_311\bin
+[2022-04-07 22:20:46.196]:             sun.cpu.endian => little
+[2022-04-07 22:20:46.196]:             sun.cpu.isalist => amd64
+[2022-04-07 22:20:46.196]:             sun.desktop => windows
+[2022-04-07 22:20:46.196]:             sun.io.unicode.encoding => UnicodeLittle
+[2022-04-07 22:20:46.196]:             sun.java.command => org.netbeans.installer.Installer
+[2022-04-07 22:20:46.196]:             sun.java.launcher => SUN_STANDARD
+[2022-04-07 22:20:46.196]:             sun.jnu.encoding => Cp1252
+[2022-04-07 22:20:46.196]:             sun.management.compiler => HotSpot 64-Bit Tiered Compilers
+[2022-04-07 22:20:46.196]:             sun.os.patch.level => 
+[2022-04-07 22:20:46.196]:             user.country => BR
+[2022-04-07 22:20:46.196]:             user.dir => C:\Users\Vitoria\Downloads
+[2022-04-07 22:20:46.196]:             user.home => C:\Users\Vitoria
+[2022-04-07 22:20:46.196]:             user.language => pt
+[2022-04-07 22:20:46.196]:             user.name => Vitoria
+[2022-04-07 22:20:46.196]:             user.script => 
+[2022-04-07 22:20:46.196]:             user.timezone => America/Sao_Paulo
+[2022-04-07 22:20:46.196]:             user.variant => 
+[2022-04-07 22:20:46.196]:     ... end of target system information
+[2022-04-07 22:20:46.196]:     exiting -- org.netbeans.installer.Installer.<init>():97
+[2022-04-07 22:20:46.243]:     loading jni library
+[2022-04-07 22:20:46.243]:         library resource path: native/jnilib/windows/windows-x64.dll
+[2022-04-07 22:20:46.618]:         library file path: C:\Users\Vitoria\AppData\Local\Temp\nbi-1009819937434552334.tmp
+[2022-04-07 22:20:46.633]:         ... successfully loaded the library
+[2022-04-07 22:20:46.633]:     entering -- org.netbeans.installer.Installer.<init>():102
+[2022-04-07 22:20:46.633]:     parsing command-line arguments
+[2022-04-07 22:20:46.633]:         ... no command line arguments were specified
+[2022-04-07 22:20:46.633]:     ... finished parsing command line arguments
+[2022-04-07 22:20:46.633]:     exiting -- org.netbeans.installer.Installer.<init>():102
+[2022-04-07 22:20:46.633]:     entering -- org.netbeans.installer.Installer.<init>():103
+[2022-04-07 22:20:46.633]:     loading engine properties
+[2022-04-07 22:20:46.633]:         loading engine properties
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.width.default => 600
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.width.gtk => 704
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.head.right.image => resource:org/netbeans/installer/wizard/wizard-description-background.png
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.width.nimbus => 624
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.height.win.xp => 450
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.height.nimbus => 512
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.title.prefix => Apache NetBeans IDE Installer
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.width.nimbus => 624
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.width.win.xp => 600
+[2022-04-07 22:20:46.649]:             loading nbi.overall.license.jdk5.resource => org/netbeans/installer/product/components/netbeans-license-jdk5.txt
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.height.win.classic => 442
+[2022-04-07 22:20:46.649]:             loading nbi.overall.license.jtb.resource => org/netbeans/installer/product/components/netbeans-license-jtb.txt
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.width.default => 600
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.height.motif => 470
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.height.aqua => 480
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.width.win.xp => 600
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.height.aqua => 480
+[2022-04-07 22:20:46.649]:             loading nbi.overall.license.jdk6.resource => org/netbeans/installer/product/components/netbeans-license-jdk6.txt
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.height.default => 500
+[2022-04-07 22:20:46.649]:             loading nbi.product.suggest.install => true
+[2022-04-07 22:20:46.649]:             loading nbi.overall.license.mysql.resource => org/netbeans/installer/product/components/netbeans-license-mysql.txt
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.icon => resource:org/netbeans/installer/wizard/wizard-icon.png
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.height.gtk => 528
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.width.aqua => 640
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.height.motif => 470
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.width.motif => 624
+[2022-04-07 22:20:46.649]:             loading nbi.product.remove.corrupted.products.silently => true
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.width.win.classic => 588
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.welcome.left.bottom.image => resource:org/netbeans/installer/wizard/components/panels/netbeans/resources/welcome-left-bottom.png
+[2022-04-07 22:20:46.649]:             loading nbi.overall.license.resource => org/netbeans/installer/product/components/netbeans-license.txt
+[2022-04-07 22:20:46.649]:             loading nbi.macosx.application.directory.name => NetBeans IDE Installer
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.height.gtk => 528
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.width.metal => 624
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.width.motif => 624
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.height.metal => 470
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.width.gtk => 704
+[2022-04-07 22:20:46.649]:             loading nbi.junit.license.resource => org/netbeans/installer/product/components/junit-license.txt
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.width.metal => 624
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.height.win.classic => 442
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.height.win.xp => 450
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.height.default => 500
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.height.nimbus => 512
+[2022-04-07 22:20:46.649]:             loading nbi.overall.license.javafx.resource => org/netbeans/installer/product/components/netbeans-license-javafx.txt
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.title.pattern => {0}
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.width.win.classic => 588
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.width.aqua => 640
+[2022-04-07 22:20:46.649]:             loading nbi.wizard.ui.swing.frame.minimum.height.metal => 470
+[2022-04-07 22:20:46.649]:     ... finished loading engine properties
+[2022-04-07 22:20:46.649]:     exiting -- org.netbeans.installer.Installer.<init>():103
+[2022-04-07 22:20:46.649]:     initializing the local directory
+[2022-04-07 22:20:46.649]:         ... custom local directory was not specified, using the default
+[2022-04-07 22:20:46.649]:         ... local directory: C:\Users\Vitoria\.nbi
+[2022-04-07 22:20:46.649]:     ... finished initializing local directory
+[2022-04-07 22:20:46.696]:     entering -- org.netbeans.installer.Installer.<init>():109
+[2022-04-07 22:20:46.696]:     ... initializing DownloadManager
+[2022-04-07 22:20:46.712]:         file not exist, queue is empty!
+[2022-04-07 22:20:46.727]:     ... end of initializing DownloadManager
+[2022-04-07 22:20:46.727]:     exiting -- org.netbeans.installer.Installer.<init>():109
+[2022-04-07 22:20:46.727]:     entering -- org.netbeans.installer.Installer.<init>():110
+[2022-04-07 22:20:46.727]:     ... initializing Registry
+[2022-04-07 22:20:46.758]:     ... end of initializing ErrorHandler
+[2022-04-07 22:20:46.758]:     exiting -- org.netbeans.installer.Installer.<init>():110
+[2022-04-07 22:20:46.758]:     entering -- org.netbeans.installer.Installer.<init>():111
+[2022-04-07 22:20:46.758]:     ... initializing Wizard
+[2022-04-07 22:20:47.040]:         ... loading registry from resource:data/registry.xml
+[2022-04-07 22:20:47.133]:         entering -- org.netbeans.installer.product.Registry.loadProductRegistry():981
+[2022-04-07 22:20:47.133]:         validating previous installations
+[2022-04-07 22:20:47.133]:         ... validating installations finished
+[2022-04-07 22:20:47.133]:         exiting -- org.netbeans.installer.product.Registry.loadProductRegistry():981
+[2022-04-07 22:20:47.149]:         Can`t load message in bundle org.netbeans.installer.wizard.components.panels.netbeans.Bundle for key NPrISP.installation.folders using [sun.misc.Launcher$AppClassLoader@5c647e05] classloader
+[2022-04-07 22:20:47.165]:     ... end of initializing Wizard
+[2022-04-07 22:20:47.165]:     exiting -- org.netbeans.installer.Installer.<init>():111
+[2022-04-07 22:20:47.165]:     creating lock file
+[2022-04-07 22:20:47.165]:         ... created lock file: C:\Users\Vitoria\.nbi\.nbilock
+[2022-04-07 22:20:47.165]:     finished creating lock file
+[2022-04-07 22:20:47.165]: ... finished initializing the engine
+[2022-04-07 22:20:47.165]: exiting -- org.netbeans.installer.Installer.main():61
+[2022-04-07 22:20:47.165]: entering -- org.netbeans.installer.Installer.main():61
+[2022-04-07 22:20:47.165]: starting the installer
+[2022-04-07 22:20:47.165]:     ... initializing look and feel
+[2022-04-07 22:20:47.180]:         ... custom look and feel class name was not specified, using system default
+[2022-04-07 22:20:47.399]:         ... class name: com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+[2022-04-07 22:20:47.399]:         ... get installed L&Fs
+[2022-04-07 22:20:47.430]:         ... set specified L&F
+[2022-04-07 22:20:47.477]:         ... check headless
+[2022-04-07 22:20:47.477]:         ... creating JFileChooser object to check possible issues with UI
+[2022-04-07 22:20:48.399]:         ... getting default Toolkit to check possible issues with UI
+[2022-04-07 22:20:48.399]:         ... creating JProgressBar object to check possible issues with UI
+[2022-04-07 22:20:48.415]:         ... all UI checks done
+[2022-04-07 22:20:48.415]:         ... L&F is set
+[2022-04-07 22:20:48.415]:     ... initializing L&F finished
+[2022-04-07 22:20:48.566]:     NameResolver - to parse &Help!
+[2022-04-07 22:20:48.581]:     NameResolver - to parse < &Back
+[2022-04-07 22:20:48.581]:     NameResolver - to parse &Next >
+[2022-04-07 22:20:48.581]:     NameResolver - to parse Cancel
+[2022-04-07 22:20:48.581]:     NameResolver - to parse Configuring the Installer...
+[2022-04-07 22:20:48.581]:     NameResolver - to parse Configuring the Installer...
+[2022-04-07 22:20:48.597]:     NameResolver - to parse Configuring the Installer...
+[2022-04-07 22:20:48.597]:     NameResolver - to parse Configuring the Installer...
+[2022-04-07 22:20:48.597]:     NameResolver - to parse Please wait while Apache NetBeans IDE installer initializes
+[2022-04-07 22:20:48.628]:     NameResolver - to parse Configuring the Installer...
+[2022-04-07 22:20:48.628]:     NameResolver - to parse Please wait while Apache NetBeans IDE installer initializes
+[2022-04-07 22:20:48.628]: ... finished starting the installer
+[2022-04-07 22:20:48.628]: exiting -- org.netbeans.installer.Installer.main():61
+[2022-04-07 22:20:48.644]: NameResolver - to parse Configuring the Installer...
+[2022-04-07 22:20:48.644]: entering -- org.netbeans.installer.wizard.components.actions.InitializeRegistryAction.execute():53
+[2022-04-07 22:20:48.644]: initializing product registry
+[2022-04-07 22:20:48.644]:     entering -- org.netbeans.installer.product.Registry.initializeRegistry():170
+[2022-04-07 22:20:48.644]:     initializing product registry properties
+[2022-04-07 22:20:48.644]:         initializing local product cache directory
+[2022-04-07 22:20:48.644]:         ... C:\Users\Vitoria\.nbi\product-cache
+[2022-04-07 22:20:48.644]:         initializing local product registry file
+[2022-04-07 22:20:48.644]:             ... C:\Users\Vitoria\.nbi\registry.xml
+[2022-04-07 22:20:48.644]:             initializing local product registry stub uri
+[2022-04-07 22:20:48.644]:             ... resource:org/netbeans/installer/product/default-registry.xml
+[2022-04-07 22:20:48.644]:             initializing bundled product registry uri
+[2022-04-07 22:20:48.644]:             ... resource:data/registry.xml
+[2022-04-07 22:20:48.644]:             initializing product registry schema uri
+[2022-04-07 22:20:48.644]:             ... resource:org/netbeans/installer/product/registry.xsd
+[2022-04-07 22:20:48.644]:             initializing remote product registries uris
+[2022-04-07 22:20:48.644]:             initializing state file schema uri
+[2022-04-07 22:20:48.644]:             ... resource:org/netbeans/installer/product/state-file.xsd
+[2022-04-07 22:20:48.644]:             initializing default state file uri
+[2022-04-07 22:20:48.644]:             ... resource:org/netbeans/installer/product/default-state-file.xml
+[2022-04-07 22:20:48.644]:             initializing target platform
+[2022-04-07 22:20:48.644]:             ... windows-x64
+[2022-04-07 22:20:48.644]:     initializing product registry properties
+[2022-04-07 22:20:48.644]:     exiting -- org.netbeans.installer.product.Registry.initializeRegistry():170
+[2022-04-07 22:20:48.644]:     ... loading registry from file:/C:/Users/Vitoria/.nbi/registry.xml
+[2022-04-07 22:20:48.722]:     entering -- org.netbeans.installer.product.Registry.loadProductRegistry():981
+[2022-04-07 22:20:48.722]:     validating previous installations
+[2022-04-07 22:20:48.753]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.753]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.769]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.769]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.769]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.784]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.784]:     ... validating installations finished
+[2022-04-07 22:20:48.784]:     exiting -- org.netbeans.installer.product.Registry.loadProductRegistry():981
+[2022-04-07 22:20:48.784]:     ... loading registry from resource:data/registry.xml
+[2022-04-07 22:20:48.816]:     entering -- org.netbeans.installer.product.Registry.loadProductRegistry():981
+[2022-04-07 22:20:48.816]:     validating previous installations
+[2022-04-07 22:20:48.816]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.816]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.816]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.816]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.816]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.831]:         NameResolver - to parse C:\Program Files\NetBeans-13
+[2022-04-07 22:20:48.831]:     ... validating installations finished
+[2022-04-07 22:20:48.831]:     exiting -- org.netbeans.installer.product.Registry.loadProductRegistry():981
+[2022-04-07 22:20:48.831]: ... product registry initialization complete
+[2022-04-07 22:20:48.831]: exiting -- org.netbeans.installer.wizard.components.actions.InitializeRegistryAction.execute():53
+[2022-04-07 22:20:48.831]: ... bundledProductSkip = null
+[2022-04-07 22:20:48.831]: ... bundledProductToInstall = null
+[2022-04-07 22:20:48.847]: NameResolver - to parse resource:org/netbeans/installer/wizard/components/panels/netbeans/resources/welcome-left-bottom.png
+[2022-04-07 22:20:48.863]: NameResolver - to parse &Help!
+[2022-04-07 22:20:48.863]: NameResolver - to parse < &Back
+[2022-04-07 22:20:48.863]: NameResolver - to parse &Next >
+[2022-04-07 22:20:48.863]: NameResolver - to parse Cancel
+[2022-04-07 22:20:48.863]: NameResolver - to parse <html><h2 style="color: #FF8E00; bold">Welcome to the Apache NetBeans IDE 13 Installer</h2>
+[2022-04-07 22:20:48.863]: NameResolver - to parse </html>
+[2022-04-07 22:20:48.863]: NameResolver - to parse text/html
+[2022-04-07 22:20:48.925]: NameResolver - to parse <html>
+[2022-04-07 22:20:48.925]: NameResolver - to parse The installer will install the NetBeans IDE with the following packs and runtimes.<br>Click Customize to select the packs and runtimes to install.<br><br>
+[2022-04-07 22:20:48.925]: NameResolver - to parse text/html
+[2022-04-07 22:20:48.941]: NameResolver - to parse <html>
+[2022-04-07 22:20:48.941]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2022-04-07 22:20:48.941]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2022-04-07 22:20:48.941]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2022-04-07 22:20:48.941]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2022-04-07 22:20:48.941]: NameResolver - to parse {0} <span style="color: gray">(Already Installed)</span><br>
+[2022-04-07 22:20:48.941]: NameResolver - to parse </html>
+[2022-04-07 22:20:48.941]: NameResolver - to parse text/html
+[2022-04-07 22:20:48.941]: NameResolver - to parse &Customize...
+[2022-04-07 22:20:48.956]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:20:48.972]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:20:48.988]: NameResolver - to parse <dummy description>
+[2022-04-07 22:20:50.987]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:20:53.003]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:20:55.018]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:20:57.034]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:20:59.049]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:01.052]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:02.986]: NameResolver - to parse Cancel
+[2022-04-07 22:21:02.986]: NameResolver - to parse Are you sure you want to cancel?
+[2022-04-07 22:21:02.986]: ... showing Yes/No dialog
+[2022-04-07 22:21:02.986]:     title: Cancel
+[2022-04-07 22:21:02.986]:     message: Are you sure you want to cancel?
+[2022-04-07 22:21:05.572]: ... dialog closed, choice : no
+[2022-04-07 22:21:07.060]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:09.066]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:11.068]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:13.079]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:15.084]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:17.088]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:19.101]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:21.102]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:23.116]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:25.121]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:27.125]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:29.140]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:31.156]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:33.156]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:35.159]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:37.163]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:39.178]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:41.178]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:43.179]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:45.181]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:47.195]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:49.208]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:51.216]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:53.217]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:55.222]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:57.236]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:21:59.240]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:01.248]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:03.250]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:05.251]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:07.256]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:09.256]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:11.257]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:13.259]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:15.259]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:17.260]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:19.262]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:21.263]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:23.265]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:25.265]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:27.265]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:29.267]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:31.268]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:33.275]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:35.290]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:37.305]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:39.321]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:41.336]: NameResolver - to parse All of the available components are already installed. Click Cancel to exit the installer.
+[2022-04-07 22:22:42.649]: NameResolver - to parse Cancel
+[2022-04-07 22:22:42.649]: NameResolver - to parse Are you sure you want to cancel?
+[2022-04-07 22:22:42.649]: ... showing Yes/No dialog
+[2022-04-07 22:22:42.649]:     title: Cancel
+[2022-04-07 22:22:42.649]:     message: Are you sure you want to cancel?
+[2022-04-07 22:22:44.380]: ... dialog closed, choice : yes

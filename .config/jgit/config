@@ -1,0 +1,6 @@
+[filesystem "Azul Systems, Inc.|11.0.15|474289046"]
+	timestampResolution = 4000 microseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Oracle Corporation|18|474289046"]
+	timestampResolution = 39064 microseconds
+	minRacyThreshold = 0 nanoseconds
